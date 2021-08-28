@@ -6,3 +6,4 @@
 * ```Ctrl + Shift + 위, 아래```  라인이동
 * ```Alt + Shift + F10``` 실행
 * ```Alt + Shift + F9``` 디버깅 실행
+* ```Ctrl + Alt + L``` 자동 정렬
