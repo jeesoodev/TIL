@@ -10,3 +10,4 @@
 * ```F7``` 디버깅 대상 라인의 함수 안으로 이동(Step Into)
 * ```Ctrl + Alt + L``` 자동 정렬
 * ```Shift + F6``` Refactor Rename
+* ```Ctrl + Shift + F``` 인텔리제이 내 검색
