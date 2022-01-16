@@ -1,3 +1,18 @@
+하둡
+- 데용량 데이터를 분산 처리할 수 있는 자바기반의 오픈소스 프레임 워크
+- DBMS가 X → 프레임 워크 O
+- 하둡은 분산시스템인 HDFY(Hadoop Distributed File Systme)에 데이터를 저장하고, 맵리듀스를 이용해 데이터를 처리
+
+분산저장(HDFS: Hadoop Distributed File System)
+
+- 빅데이터 파일을 여러 대의 서버에 분산 저장하기 위한 파일 시스템
+
+분산처리(MapReduce)
+
+- 각 서버에서 데이터를 분산처리하는 분산 병렬 처리를 위한 분석 시스템
+
+<br>
+
 ### Linux와 HDFS
 
 - 데이터 생성, 코딩은 Linux에서 하고, MapReduce 코드와 입력 데이터는 HDFS에 옮겨서 MapReduce 알고리즘 수행
